@@ -1,6 +1,6 @@
 # Docker
 
-Taks - 
+Tasks - 
 
 1. Install docker
 
